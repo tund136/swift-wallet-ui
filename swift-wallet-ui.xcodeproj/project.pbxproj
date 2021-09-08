@@ -13,6 +13,7 @@
 		ADB36F6F26E8F87100F94744 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADB36F6E26E8F87100F94744 /* Preview Assets.xcassets */; };
 		ADB36F7B26E8F92F00F94744 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB36F7A26E8F92F00F94744 /* Home.swift */; };
 		ADB36F7D26E9047400F94744 /* CustomShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB36F7C26E9047400F94744 /* CustomShape.swift */; };
+		ADB36F7F26E90BD600F94744 /* Week.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB36F7E26E90BD600F94744 /* Week.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ADB36F7026E8F87100F94744 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ADB36F7A26E8F92F00F94744 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		ADB36F7C26E9047400F94744 /* CustomShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShape.swift; sourceTree = "<group>"; };
+		ADB36F7E26E90BD600F94744 /* Week.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Week.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 		ADB36F7726E8F90100F94744 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				ADB36F7E26E90BD600F94744 /* Week.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 			files = (
 				ADB36F7D26E9047400F94744 /* CustomShape.swift in Sources */,
 				ADB36F6A26E8F86F00F94744 /* ContentView.swift in Sources */,
+				ADB36F7F26E90BD600F94744 /* Week.swift in Sources */,
 				ADB36F7B26E8F92F00F94744 /* Home.swift in Sources */,
 				ADB36F6826E8F86F00F94744 /* swift_wallet_uiApp.swift in Sources */,
 			);
